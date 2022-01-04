@@ -1,6 +1,6 @@
 ---
 title: Ines Adriaens
-role: Researcher, KUL data team lead
+role: Researcher, data team lead
 avatar_filename: avatar.jpg
 bio: My research interests reside in agricultural technology, sensing, time
   series and other analytical tools and impact creation.
