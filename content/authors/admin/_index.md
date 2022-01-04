@@ -6,8 +6,8 @@ bio: My research interests reside in agricultural technology, sensing, time
   series and other analytical tools and impact creation.
 interests:
   - Data processing
-  - agriculture
-  - food production
+  - Agriculture
+  - Food production
 social:
   - icon: envelope
     icon_pack: fas
