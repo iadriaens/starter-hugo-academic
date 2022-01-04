@@ -1,7 +1,7 @@
 ---
 title: Ines Adriaens
-role: Researcher, project leader, KUL data team lead
-avatar_filename: abgb-17_c2.jpg
+role: Researcher, KUL data team lead
+avatar_filename: avatar.jpg
 bio: My research interests reside in agricultural technology, sensing, time
   series and other analytical tools and impact creation.
 interests:
@@ -45,7 +45,7 @@ organizations:
 education:
   courses:
     - course: PhD in Bioscience engineering
-      institution: KU Leuven (Belgium)
+      institution: KU Leuven (BE)
       year: 2018
     - course: Msc. in Bioscience engineering
       institution: KU Leuven (BE)
