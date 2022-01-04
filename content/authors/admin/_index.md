@@ -38,7 +38,7 @@ social:
     icon_pack: fab
     icon: researchgate
 organizations:
-  - name: WUR (NL) - Animal breeding and genomics
+  - name: WUR (NL) - Animal Breeding and Genomics
     url: https://www.wur.nl/nl/Landingspagina-redacteuren/nl/Personen/Ines-I-Ines-Adriaens.htm
   - name: KU Leuven (BE) - Livestock Technology
     url: https://iiw.kuleuven.be/onderzoek/livestocktechnology
@@ -54,6 +54,12 @@ email: ines.adriaens@wur.nl
 superuser: true
 highlight_name: true
 ---
-Short bio will follow
+Short bio will follow.  
+
+This is markdown list:
+* what
+* a 
+* list!
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
