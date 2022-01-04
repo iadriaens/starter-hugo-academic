@@ -38,16 +38,16 @@ social:
     icon_pack: fab
     icon: researchgate
 organizations:
-  - name: Wageningen University & Research - Animal breeding and genomics
+  - name: WUR (NL) - Animal breeding and genomics
     url: https://www.wur.nl/nl/Landingspagina-redacteuren/nl/Personen/Ines-I-Ines-Adriaens.htm
-  - name: KU Leuven - Livestock Technology
+  - name: KU Leuven (BE) - Livestock Technology
     url: https://iiw.kuleuven.be/onderzoek/livestocktechnology
 education:
   courses:
     - course: PhD in Bioscience engineering
       institution: KU Leuven (BE)
       year: 2018
-    - course: Msc. in Bioscience engineering
+    - course: Msc in Bioscience engineering
       institution: KU Leuven (BE)
       year: 2014
 email: ines.adriaens@wur.nl
