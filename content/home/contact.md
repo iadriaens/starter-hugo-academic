@@ -16,8 +16,8 @@ content:
 design:
   columns: "2"
   background:
-    color: "#630606"
+    color: "#490202"
     text_color_light: true
 ---
-**@**: ines.adriaens@kuleuven.be
+**@**: ines.adriaens@kuleuven.be  
 **@**: ines.adriaens@wur.nl
